@@ -198,3 +198,6 @@ This repository serves as the official landing page for ADI SoundMax AC97. The s
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ADI SoundMax AC97 today!**
+
+---
+**Last updated:** 2026-11-07 21:15:59 UTC
